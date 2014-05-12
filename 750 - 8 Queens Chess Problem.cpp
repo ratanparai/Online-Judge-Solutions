@@ -1,3 +1,5 @@
+// Runtime : .013 
+
 #include<iostream>
 #include<cmath>
 
