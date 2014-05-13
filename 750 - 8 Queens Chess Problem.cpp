@@ -1,10 +1,12 @@
+// Runtime : .013 
+
 #include<iostream>
 #include<cmath>
 
 
 using namespace std;
 
-// result array list
+
 int x[8];
 int val;
 int cols;
@@ -27,10 +29,7 @@ int abs(int a, int b){
 }
 
 
-/**
- * Check if the combination is valid or not, where k is the
- * cols number and i is the row number.
- */
+
 bool Place (int k, int i){
 
     for (int j=1; j<k; j++){
