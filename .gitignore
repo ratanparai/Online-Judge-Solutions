@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+*.txt
+
+# Generated input and output file
+*.txt
+out.txt
+generator.cpp
+solved.cpp
+*.save
